@@ -19,5 +19,7 @@ export const styles = {
     menu: {
         color: "white",
         margin: "0 12px",
+        textTransform: "uppercase",
+        textDecoration: "none",
     }
 }
